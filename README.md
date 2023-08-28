@@ -32,4 +32,8 @@ The provided solution can be run by using either Visual Studio 2022 or as a Dock
 
 * <h4>Docker container</h4>
 
-Then click on "Start" to run the solution.
+Open powershell (or other terminal if working under other operating systems) and go to the location where the docker file is located. In this solution is in the project folder. 
+Type the following commmand to build the image:
+![image](https://github.com/cmperal/powerplant-coding-challenge/assets/22909132/0fe43d42-71af-4710-a1bd-91b78da3a7d8)
+
+
