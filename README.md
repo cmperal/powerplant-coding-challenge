@@ -20,12 +20,12 @@ The solution is comprised of 1 projects as follows:
 The provided solution can be run by using either Visual Studio 2022 or as a Docker container.
 
 * <h4>Visual Studio</h4>
-Select the configuration option called "https" as follows:
+* Select the configuration option called "https" as follows:
 ![image](https://github.com/cmperal/powerplant-coding-challenge/assets/22909132/048df846-223c-4715-9e4e-609f162be37c)
 
-Click over the start button for its compilation and subsequent run (or press F5 instead)
+*Click over the start button for its compilation and subsequent run (or press F5 instead)
 
-The application will be raised through the URL https://localhost:8888/swagger/index.html by using Swagger in order to test the endpoint.
+*The application will be raised through the URL https://localhost:8888/swagger/index.html by using Swagger in order to test the endpoint.
 
 ![image](https://github.com/cmperal/powerplant-coding-challenge/assets/22909132/4d1adbca-beed-44aa-b117-4abbc1bb0e21)
 
