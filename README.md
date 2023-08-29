@@ -33,13 +33,13 @@ The provided solution can be run by using either Visual Studio 2022 or as a Dock
 
 <h4>Docker container</h4>
 
-Open powershell (or other terminal if working under other operating systems) and go to the location where the docker file is located. In this solution is in the project folder. 
+* Open powershell (or other terminal if working under other operating systems) and go to the location where the docker file is located. In this solution is in the project folder. 
 Type the following commmand to build the image:
 ```
 docker build -t powerplant .
 ```
 
-Once the image is available in your Docker engine, run the following command to run the container:
+* Once the image is available in your Docker engine, run the following command to run the container:
 ```
 docker run -dp 8888:443 powerplant
 ```
