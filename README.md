@@ -16,7 +16,7 @@ The version used to generate it has been Visual Studio 2022
 The solution is comprised of 1 projects as follows:
 * "powerplant-coding-challenge"--> It is the project that serves the endpoint which runs over .NET 7.0. 
 
-## Instructions before run
+## Steps to run the application
 The provided solution can be run by using either Visual Studio 2022 or as a Docker container.
 
 <h4>Visual Studio</h4>
